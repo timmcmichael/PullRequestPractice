@@ -1,4 +1,4 @@
-# ClonePractice
+# PullRequestPractice
 
 A repo for my EMCC students to practice cloning and committing.
 
